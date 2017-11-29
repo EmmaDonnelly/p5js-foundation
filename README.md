@@ -1,2 +1,2 @@
 # p5js-foundation
-http://bit.ly/1WXs0Ro
+https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
